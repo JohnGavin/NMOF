@@ -4,7 +4,7 @@
 ###################################################
 ### code chunk number 1: NMOFman.Rnw:6-10
 ###################################################
-version <- as.Date("2012-11-08")
+version <- as.Date("2012-11-08") 
 options(continue = " ", digits = 3, width = 70, scipen = 1e8)
 require("cacheSweave")
 setCacheDir("~/Books/NMOFman/cache/")
